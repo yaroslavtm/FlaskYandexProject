@@ -1,5 +1,5 @@
 # Tolpyshkin Yaroslav
-# Игра про добычу золоат позволяет вавм добывать определнное кол-во золота в зависимости   # от места, где вы его добываете.
+# Игра про добычу золота, где вы добываете золото и копите его.
 
 from flask import Flask, render_template, request, redirect, session
 from datetime import datetime
